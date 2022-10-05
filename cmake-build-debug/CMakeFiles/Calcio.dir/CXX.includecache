@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Francesco Taccetti/CLionProjects/Programmazione/Calcio/Championship.cpp
+utility
+-
+algorithm
+-
+vector
+-
+ctime
+-
+Team.h
+C:/Users/Francesco Taccetti/CLionProjects/Programmazione/Calcio/Team.h
+iostream
+-
+Championship.h
+C:/Users/Francesco Taccetti/CLionProjects/Programmazione/Calcio/Championship.h
+
+C:/Users/Francesco Taccetti/CLionProjects/Programmazione/Calcio/Championship.h
+string
+-
+vector
+-
+Team.h
+C:/Users/Francesco Taccetti/CLionProjects/Programmazione/Calcio/Team.h
+
+C:/Users/Francesco Taccetti/CLionProjects/Programmazione/Calcio/Team.cpp
+Team.h
+C:/Users/Francesco Taccetti/CLionProjects/Programmazione/Calcio/Team.h
+Championship.h
+C:/Users/Francesco Taccetti/CLionProjects/Programmazione/Calcio/Championship.h
+iostream
+-
+algorithm
+-
+utility
+-
+
+C:/Users/Francesco Taccetti/CLionProjects/Programmazione/Calcio/Team.h
+string
+-
+vector
+-
+
+C:/Users/Francesco Taccetti/CLionProjects/Programmazione/Calcio/main.cpp
+iostream
+-
+Team.h
+C:/Users/Francesco Taccetti/CLionProjects/Programmazione/Calcio/Team.h
+Championship.h
+C:/Users/Francesco Taccetti/CLionProjects/Programmazione/Calcio/Championship.h
+ctime
+-
+vector
+-
+memory
+-
+
